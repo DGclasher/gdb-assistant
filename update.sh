@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "[+] Updating PEDA..."
 cd ~/peda
 git pull

@@ -1,4 +1,4 @@
-# Pwndbg + GEF + Peda - One for all, and all for one
+# All in One GDB Assistant
 
 This is a script which installs Pwndbg, GEF, and Peda GDB plugins in a single command.
 
@@ -12,15 +12,11 @@ gdb-pwndbg
 gdb-gef
 ```
 
-For more information read the relevant blog post:
-
-https://medium.com/bugbountywriteup/pwndbg-gef-peda-one-for-all-and-all-for-one-714d71bf36b8
-
 # Installation
 
 ```
-cd ~ && git clone https://github.com/apogiatzis/gdb-peda-pwndbg-gef.git
-cd ~/gdb-peda-pwndbg-gef
+git clone https://github.com/DGclasher/gdb-assistant
+cd gdb-assistant
 ./install.sh
 ```
 
